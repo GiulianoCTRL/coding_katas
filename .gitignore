@@ -1,0 +1,10 @@
+# Rust
+*/rust/target/*
+*/rust/Cargo.lock
+
+# Python
+*/python/__pycache__/
+.venv/
+
+# macOS
+.DS_Store
