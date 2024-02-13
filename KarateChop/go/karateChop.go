@@ -30,7 +30,6 @@ func binarySearch(num int, array []int) int {
 			lastIndex = cursor - 1
 		} else {
 			firstIndex = cursor + 1
-			lastIndex = size - 1
 		}
 
 		cursor = (firstIndex + lastIndex) / 2
